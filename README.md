@@ -6,6 +6,7 @@
 - 🌐 Website: [diegomacall.github.io](https://diegomacall.github.io/)
 - 📫 How to reach me through email? Find it on my web page.
 - 👨‍💻 Polyglot; most fluent in R, Python, C++ and javascript
+- 🦋 Bluesky: [@diegommacall.bsky.social](https://bsky.app/profile/diegommacall.bsky.social)
 
 <!---
 DiegoMacall/DiegoMacall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
