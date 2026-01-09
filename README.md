@@ -1,7 +1,8 @@
 ## Hi, I’m @DiegoMacall 👋
 ---
+- 🏛️ I'm an Associate Professor at the University of Virginia School of Data Science
 - 👀 I’m interested in Agriculture, Economics, Eocnometrics, and Programming
-- 🌱 I’m currently learning C++ and javascript
+- 👨‍💻 Polyglot; most fluent in R, Python, C++ and javascript
 - 💞️ I’m looking to collaborate on Apps
 - 📫 How to reach me through email, find it on my web page diegomacall.github.io
 - 🎓 Publications: [Google Scholar](https://scholar.google.ca/citations?hl=en&user=LAlqoigAAAAJ)
