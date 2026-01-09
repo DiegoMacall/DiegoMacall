@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Apps
 - 📫 How to reach me through email, find it on my web page diegomacall.github.io
 - 🎓 Publications: [Google Scholar](https://scholar.google.ca/citations?hl=en&user=LAlqoigAAAAJ)
+- 🌐 Website: [diegomacall.github.io](https://diegomacall.github.io/)
 
 <!---
 DiegoMacall/DiegoMacall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
