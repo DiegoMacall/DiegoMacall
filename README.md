@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @DiegoMacall
+## Hi, I’m @DiegoMacall 👋
+
+---
 - 👀 I’m interested in Agriculture, Economics, Eocnometrics, and Programming
 - 🌱 I’m currently learning C++ and javascript
 - 💞️ I’m looking to collaborate on Apps
